@@ -1,2 +1,2 @@
 # Primeira aula  de Git
-- [] começando no git
+## Começando no git
