@@ -1,4 +1,6 @@
 # Primeira aula  de Git
 ## Começando no git
 
-alteraçãp 
+alteração 01
+
+alteração 02
